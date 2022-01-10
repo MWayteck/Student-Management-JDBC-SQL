@@ -22,8 +22,3 @@ create connection between the java project and mysql
 load up the sql scripts and change the data in DatabaseInstance.java to match your username and password
 run the server
 run MainMenu.java
-
-
-
-
-Pictures of working project are included in folder.
